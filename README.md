@@ -15,7 +15,7 @@
 | 后缀 | 文件特征      |
 | ---- | ------------- |
 | JPG  | b'\xff\xd8'   |
-| PNG  | '\x89PNG'     |
+| PNG  | b'\x89PNG'     |
 | BMP  | b'BM'         |
 | PDF  | b'%PDF'       |
 | docx | b'PK\x03\x04' |
